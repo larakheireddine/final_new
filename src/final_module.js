@@ -1,6 +1,6 @@
 import './App.css';
 import * as React from 'react';
-import {BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
+import {BrowserRouter as Router, Routes, Route, Link} from "react-router";
 
 var totalwork = ['Full Extension Curl', 'Scissor Kicks', 'Mountain Climbers', 'Plank', 'Plank Hip Dips', 'Push Ups', 'Decline Push Ups','Side Plank w/ Arm Extension', 'Inchworm', 'Arm Circles', 'Squat', 'Single-Leg Glute Bridge' ,'Single-Leg Romanian Deadlift','Lunge', 'Wall Sit'];
 
